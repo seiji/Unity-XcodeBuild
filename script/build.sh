@@ -148,7 +148,7 @@ function create_ipa () {
 }
 
 #-----------------
-# Create IPA and dsym
+# Send TestFlight
 #-----------------
 function send_testflight () {
 # post testflight
